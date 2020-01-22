@@ -7,7 +7,7 @@ http://www.vision.caltech.edu/Image_Datasets/Caltech101/<br /><br />
 # Steps Followed:<br />
 1 Loading the data<br />
 2 Sorted images based on category.<br />
-2 Used vgg16 and take the output from last dense layer.<br />
+2 Used xception and take the output from last dense layer.<br />
 3 Make a feature vector of all the training data.<br />
 4 For the test data make the feature vector and to check similarity used LSH and Cosine Similarity.<br />
 
