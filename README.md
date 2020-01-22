@@ -13,5 +13,7 @@ http://www.vision.caltech.edu/Image_Datasets/Caltech101/<br /><br />
 
 # Result: <br />
 ![](https://github.com/TanyaChutani/Keras-Reverse-Image-Search-Using-LSH-and-Cosine-Similarity/blob/master/Bikes.png)<br />
+<br />
 ![](https://github.com/TanyaChutani/Keras-Reverse-Image-Search-Using-LSH-and-Cosine-Similarity/blob/master/Car.png)<br />
+<br />
 ![](https://github.com/TanyaChutani/Keras-Reverse-Image-Search-Using-LSH-and-Cosine-Similarity/blob/master/Airplanes.png)<br />
