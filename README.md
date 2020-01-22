@@ -12,8 +12,9 @@ http://www.vision.caltech.edu/Image_Datasets/Caltech101/<br /><br />
 4 For the test data make the feature vector and to check similarity used LSH and Cosine Similarity.<br />
 
 # Result: <br />
+1. <br />
 ![](https://github.com/TanyaChutani/Keras-Reverse-Image-Search-Using-LSH-and-Cosine-Similarity/blob/master/Bikes.png)<br />
-<br />
+2. <br />
 ![](https://github.com/TanyaChutani/Keras-Reverse-Image-Search-Using-LSH-and-Cosine-Similarity/blob/master/Car.png)<br />
-<br />
+3. <br />
 ![](https://github.com/TanyaChutani/Keras-Reverse-Image-Search-Using-LSH-and-Cosine-Similarity/blob/master/Airplanes.png)<br />
