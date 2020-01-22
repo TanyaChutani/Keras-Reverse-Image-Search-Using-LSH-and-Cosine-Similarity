@@ -1,4 +1,4 @@
-# Keras-Reverse-Image-Search-Using-LSH-and-Cosine-Similarity
+# Keras-Reverse-Image-Search-Using-LSH
 Keras Reverse Image Search using Locality Sensitive Hashing on Caltech 101 Dataset
 
 ## For downloading the Dataset:<br />
